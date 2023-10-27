@@ -3,23 +3,31 @@
 - Former Civil Engineer that fell in love with front-end development
 - Currently deep diving into the world of **Next.js** and **TypeScript**
 - In love with things that can be both simple and elegant
-- Tech, design, photography and sports fan
+- Tech, design, photography and sports enthusiast
 - Based in Brazil (so yes, I speak portuguese as well 🤓)
 
-#### Skills (this is for you, recruiters)
+#### Skills
 
 <div style="display: inline_block">
-  <img align="center" alt="JavaScript logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="JavaScript logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
+  <a href="https://react.dev/" target="_blank"><img align="center" alt="React logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></a>
+  <a href="https://nextjs.org/" target="_blank"><img align="center" alt="Next.js logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="HTML5 logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="CSS3 logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></a>
+  <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Tailwind CSS logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></a>
+  <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Node.js logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"></a>
+  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></a>
+  <a href="https://www.figma.com/" target="_blank"><img align="center" alt="Figma logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></a>
 </div>
-
 
 #### Socials
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-323232?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalvancarvalho/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-323232?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dalvanc_/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-323232?style=flat&logo=x&logoColor=white)](https://www.linkedin.com/in/dalvancarvalho/)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-323232?style=flat&logo=spotify&logoColor=white)](https://www.linkedin.com/in/dalvancarvalho/)
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/dalvancarvalho/" target="_blank"><img align="center" alt="LinkedIn logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
+  <a href="https://www.instagram.com/dalvanc_/" target="_blank"><img align="center" alt="Instagram logo" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg"></a>
+  <a href="https://twitter.com/theRealZackyV" target="_blank"><img align="center" alt="Twitter logo" height="27" width="40" src="https://bayrivercolleges.ca/files/logo-x-twitter.svg"></a>
+  <a href="https://open.spotify.com/user/dalvancarvalho" target="_blank"><img align="center" alt="Spotify logo" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg"></a>
+</div>
