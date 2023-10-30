@@ -2,7 +2,7 @@
 
 - Former Civil Engineer that fell in love with front-end development
 - Currently deep diving into the world of **Next.js** and **TypeScript**
-- In love with things that can be both simple and elegant
+- Fascinated by things that can be both simple and elegant
 - Tech, design, photography and sports enthusiast
 - Based in Brazil (so yes, I speak portuguese as well 🤓)
 
@@ -26,8 +26,8 @@
 #### Socials
 
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/dalvancarvalho/" target="_blank"><img align="center" alt="LinkedIn logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-  <a href="https://www.instagram.com/dalvanc_/" target="_blank"><img align="center" alt="Instagram logo" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg"></a>
-  <a href="https://twitter.com/theRealZackyV" target="_blank"><img align="center" alt="Twitter logo" height="27" width="40" src="https://bayrivercolleges.ca/files/logo-x-twitter.svg"></a>
-  <a href="https://open.spotify.com/user/dalvancarvalho" target="_blank"><img align="center" alt="Spotify logo" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg"></a>
+  <a href="https://www.linkedin.com/in/dalvancarvalho/" target="_blank"><img align="center" alt="LinkedIn logo" height="29" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
+  <a href="https://www.instagram.com/dalvanc_/" target="_blank"><img align="center" alt="Instagram logo" height="29" width="40" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg"></a>
+  <a href="https://twitter.com/theRealZackyV" target="_blank"><img align="center" alt="Twitter logo" height="26" width="40" src="https://bayrivercolleges.ca/files/logo-x-twitter.svg"></a>
+  <a href="https://open.spotify.com/user/dalvancarvalho" target="_blank"><img align="center" alt="Spotify logo" height="29" width="40" src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg"></a>
 </div>
