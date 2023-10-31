@@ -6,6 +6,10 @@
 - Tech, design, photography and sports enthusiast
 - Based in Brazil (so yes, I speak Portuguese as well 🤓)
 
+#### Personal website
+
+<a href="https://dalvanc.com/" target="_blank" rel="noopener noreferrer"><img align="center" alt="dalvan c logo" height="20" title="Dalvan Carvalho's personal website" src="https://github.com/dalvancarvalho/dalvancarvalho/blob/main/icons/dalvanc_.svg"></a>
+
 #### Skills
 
 <div>
@@ -17,8 +21,18 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="CSS3 logo" height="30" width="40" title="CSS3" src="https://github.com/dalvancarvalho/dalvancarvalho/blob/main/icons/css3.svg"></a>
   <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass logo" height="30" width="40" title="Sass" src="https://github.com/dalvancarvalho/dalvancarvalho/blob/main/icons/sass.svg"></a>
   <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Tailwind CSS logo" height="30" width="40" title="Tailwind CSS" src="https://github.com/dalvancarvalho/dalvancarvalho/blob/main/icons/tailwindcss.svg"></a>
+</div>
+
+<br />
+
+<div>
   <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Node.js logo" height="30" width="40" title="Node.js" src="https://github.com/dalvancarvalho/dalvancarvalho/blob/main/icons/nodejs.svg"></a>
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL logo" height="30" width="40" title="PostgreSQL" src="https://github.com/dalvancarvalho/dalvancarvalho/blob/main/icons/postgresql.svg"></a>
+</div>
+
+<br />
+
+<div>
   <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git logo" height="30" width="40" title="Git" src="https://github.com/dalvancarvalho/dalvancarvalho/blob/main/icons/git.svg"></a>
   <a href="https://www.figma.com/" target="_blank"><img align="center" alt="Figma logo" height="30" width="40" title="Figma" src="https://github.com/dalvancarvalho/dalvancarvalho/blob/main/icons/figma.svg"></a>
 </div>
