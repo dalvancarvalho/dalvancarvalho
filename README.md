@@ -8,7 +8,7 @@
 
 #### Personal website
 
-<a href="https://dalvanc.com/"><img align="center" alt="dalvan c logo" height="20" title="Dalvan Carvalho's personal website" src="https://github.com/dalvancarvalho/dalvancarvalho/blob/main/icons/dalvanc_.svg"></a>
+<a href="https://dalvanc.com/"><img align="center" alt="dalvan c logo" height="17" title="Dalvan Carvalho's personal website" src="https://github.com/dalvancarvalho/dalvancarvalho/blob/main/icons/dalvanc_.svg"></a>
 
 #### Skills
 
