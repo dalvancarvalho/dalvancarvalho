@@ -8,7 +8,7 @@
 
 #### Skills
 
-<div style="display: inline_block">
+<div style="display: flex; flex-wrap: wrap; gap: 10px">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="JavaScript logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
   <a href="https://react.dev/" target="_blank"><img align="center" alt="React logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></a>
@@ -25,7 +25,7 @@
 
 #### Socials
 
-<div style="display: inline_block">
+<div style="display: flex; flex-wrap: wrap; gap: 10px">
   <a href="https://www.linkedin.com/in/dalvancarvalho/" target="_blank"><img align="center" alt="LinkedIn logo" height="29" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
   <a href="https://www.instagram.com/dalvanc_/" target="_blank"><img align="center" alt="Instagram logo" height="28" width="40" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg"></a>
   <a href="https://twitter.com/theRealZackyV" target="_blank"><img align="center" alt="Twitter logo" height="24" width="40" src="https://bayrivercolleges.ca/files/logo-x-twitter.svg"></a>
