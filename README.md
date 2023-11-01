@@ -10,7 +10,7 @@
 
 <a href="https://dalvanc.com/"><img align="center" alt="dalvan c logo" height="17" title="Dalvan Carvalho's personal website" src="https://github.com/dalvancarvalho/dalvancarvalho/blob/main/icons/dalvanc_.svg"></a>
 
-#### Skills
+#### Languages, frameworks and tools I work with
 
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript logo" height="30" width="27" title="JavaScript" src="https://github.com/dalvancarvalho/dalvancarvalho/blob/main/icons/javascript.svg"></a>
