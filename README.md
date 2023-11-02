@@ -4,9 +4,9 @@
 - Currently deep diving into the world of **Next.js** and **TypeScript**
 - Fascinated by things that can be both simple and elegant
 - Tech, design, photography and sports enthusiast
-- Based in Brazil (so yes, I speak Portuguese as well 🤓)
+- Based in **Brazil**
 
-#### Personal website
+#### My personal website
 
 <a href="https://dalvanc.com/"><img align="center" alt="dalvan c logo" height="17" title="Dalvan Carvalho's personal website" src="https://github.com/dalvancarvalho/dalvancarvalho/blob/main/icons/dalvanc_.svg"></a>
 
